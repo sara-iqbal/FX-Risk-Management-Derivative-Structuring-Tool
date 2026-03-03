@@ -111,4 +111,3 @@ As a **Junior FX Structurer**, I analyzed these scenarios to determine that the 
 2. **The Image:** Save your graph from Colab as `chart.png`, upload it to your GitHub repo, and replace `your_image_link_here` with the filename `chart.png`.
 3. **Add your Code:** Upload your `.ipynb` file to the same folder.
 
-**Would you like me to draft a high-impact LinkedIn post for you to share this project with your network and Freddie?**
