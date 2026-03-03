@@ -89,7 +89,7 @@ This is the core deliverable, demonstrating sophisticated risk engineering to me
 | Parameter | Data Point |
 | --- | --- |
 | **Asset** | GBP/USD (The Cable) |
-| **Historical Volatility ($\sigma$)** | [Insert your % from Colab, e.g., 8.4%] |
+| **Historical Volatility ($\sigma$)** |7.12% |
 | **Domestic Rate ($r_d$)** | 5.25% (BoE) |
 | **Foreign Rate ($r_f$)** | 5.50% (Fed) |
 | **Time to Maturity ($T$)** | 0.25 Years (3 Months) |
