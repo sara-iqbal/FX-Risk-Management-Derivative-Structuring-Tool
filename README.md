@@ -4,11 +4,11 @@
 
 ### **Case Study: GBP/USD Exposure & Zero-Cost Collar Pricing**
 
-## ** Project Overview**
+##  Project Overview
 
 This project provides a quantitative framework for analyzing Foreign Exchange (FX) risk for corporate clients. Sitting at the intersection of **FinTech and Financial Engineering**, this tool automates the analysis of "The Cable" (GBP/USD) to provide clients with structured hedging alternatives to standard forward contracts.
 
-## ** Key Methodology**
+##  Key Methodology
 
 This project follows the lifecycle of a professional FX structuring desk:
 
@@ -18,11 +18,11 @@ This project follows the lifecycle of a professional FX structuring desk:
 4. **Strategic Structuring:** Engineered a **Zero-Cost Collar**, solving for the strike price where the Net Premium = 0.
 5. **Risk Visualization:** Generated payoff profiles to communicate P&L outcomes to stakeholders.
 
-## ** Strategy Analysis**
+## Strategy Analysis
 
 Below is the visual output of the risk engine comparing three distinct client paths:
 
-### ** Deep Dive Analysis of the Results:**
+### **Deep Dive Analysis of the Results:**
 
 * **Unhedged (Red Dashed):** Shows a $1:1$ linear risk. While it offers 100% upside, the "Left Tail" risk is significant; a 5% drop in GBP/USD results in a direct 5% hit to the client's bottom line.
 * **Forward Contract (Green):** The "Certainty" play. It eliminates all volatility, locking in a rate regardless of market movement. However, it creates an "Opportunity Cost" if the GBP strengthens.
@@ -33,7 +33,7 @@ Below is the visual output of the risk engine comparing three distinct client pa
 
 
 
-## ** Project Statistics**
+## **Project Statistics**
 
 | Metric | Value |
 | --- | --- |
@@ -44,12 +44,12 @@ Below is the visual output of the risk engine comparing three distinct client pa
 | **Calculated Volatility** | [Insert your % from Colab] |
 | **Risk Reduction** | ~100% Downside Protection below Strike |
 
-## ** Data Sources**
+## **Data Sources**
 
 * **Market Data:** Sourced via the **Yahoo Finance (yfinance)** API, providing real-time Close prices and historical daily returns for `GBPUSD=X`.
 * **Interest Rates:** Modeled based on current Central Bank rates (BoE and Federal Reserve) to calculate the **Interest Rate Differential**, a critical component for FX Forward and Option pricing.
 
-## ** Context for Ebury**
+## **Context for Ebury**
 
 This project demonstrates the "Exceptional Analytical and Problem-Solving Abilities" required for the **Junior FX Structurer** role. It proves technical proficiency in **Python**, a deep understanding of **FX Spot, Swaps, and Options**, and the ability to turn complex quantitative data into **compelling proposals**.
 
