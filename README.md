@@ -4,11 +4,11 @@
 
 ### **Case Study: GBP/USD Exposure & Zero-Cost Collar Pricing**
 
-## **📌 Project Overview**
+## ** Project Overview**
 
 This project provides a quantitative framework for analyzing Foreign Exchange (FX) risk for corporate clients. Sitting at the intersection of **FinTech and Financial Engineering**, this tool automates the analysis of "The Cable" (GBP/USD) to provide clients with structured hedging alternatives to standard forward contracts.
 
-## **🚀 Key Methodology**
+## ** Key Methodology**
 
 This project follows the lifecycle of a professional FX structuring desk:
 
@@ -22,7 +22,7 @@ This project follows the lifecycle of a professional FX structuring desk:
 
 Below is the visual output of the risk engine comparing three distinct client paths:
 
-### **Deep Dive Analysis of the Results:**
+### ** Deep Dive Analysis of the Results:**
 
 * **Unhedged (Red Dashed):** Shows a $1:1$ linear risk. While it offers 100% upside, the "Left Tail" risk is significant; a 5% drop in GBP/USD results in a direct 5% hit to the client's bottom line.
 * **Forward Contract (Green):** The "Certainty" play. It eliminates all volatility, locking in a rate regardless of market movement. However, it creates an "Opportunity Cost" if the GBP strengthens.
